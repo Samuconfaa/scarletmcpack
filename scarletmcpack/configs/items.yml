@@ -1,0 +1,12 @@
+info:
+  namespace: scarletmcpack
+
+items:
+  scarletmcpic:
+    display_name: "<gold>Scarlet MCPIC"
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: "item/scarletmcpic"
+    durability:
+      max: 100
